@@ -1,5 +1,7 @@
 # Deploying a Flask API
 
+_Note_: Always ensure your system time is correct
+
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
 In this project you will containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.
