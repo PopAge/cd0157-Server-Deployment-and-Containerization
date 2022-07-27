@@ -1,6 +1,6 @@
 # Deploying a Flask API
 
-_Note_: Always ensure your system time is correct
+_Note_: Always ensure your system time is correct.
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
