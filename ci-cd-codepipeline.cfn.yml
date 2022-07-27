@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: Adjanor Edwin Adu
+    Default: PopAge
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
