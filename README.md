@@ -1,6 +1,7 @@
 # Deploying a Flask API
 
 _Note_: Always ensure your system time is correct.
+_note_: set up an IAM role before creating the clutser.
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
